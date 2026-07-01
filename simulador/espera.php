@@ -78,7 +78,7 @@ body{margin:0;background:#fff;font-family:-apple-system,"Segoe UI",Roboto,sans-s
   <meta name="viewport" content="width=device-width,initial-scale=1.0"/>
   <meta http-equiv="refresh" content="2;url=<?= htmlspecialchars($self) ?>"/>
   <title>Procesando...</title>
-  <link rel="icon" href="img/logo-ba.svg" type="image/svg+xml"/>
+  <link rel="icon" href="img/bac_logo.svg" type="image/svg+xml"/>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet"/>
   <style>
     *{box-sizing:border-box;margin:0;padding:0}
@@ -94,7 +94,7 @@ body{margin:0;background:#fff;font-family:-apple-system,"Segoe UI",Roboto,sans-s
   </style>
 </head>
 <body>
-  <img src="img/logo-ba.svg" class="logo" alt="Banco Atl&#225;ntida"/>
+  <img src="img/bac_logo.svg" class="logo" alt="BAC"/>
   <div class="spinner">
     <div class="ring r1"></div>
     <div class="ring r2"></div>
